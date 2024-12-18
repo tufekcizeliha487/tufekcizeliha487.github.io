@@ -1,0 +1,15 @@
+{
+  "admob": {
+    "ad_banner"      : "ca-app-pub-9600383135581620/9960733654",
+    "ad_interstitial": "ca-app-pub-9600383135581620/7226759100",
+    "ad_native"      : "ca-app-pub-9600383135581620/8162266942",
+    "ad_splash"      : "ca-app-pub-9600383135581620/7922593795"
+  },
+  "applovin": {
+    "ad_banner"      : "d8eeb03c02989cea",
+    "ad_interstitial": "e594efc625255ee4",
+    "ad_native"      : "a5fe310add499b7c",
+    "ad_splash"      : "cf3c4439b7cad1ea"
+  },
+  "splash_inter_show": ""
+}
