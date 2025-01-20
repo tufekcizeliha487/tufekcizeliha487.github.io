@@ -12,5 +12,5 @@
     "ad_splash"      : "cf3c4439b7cad1ea"
   },
   "splash_inter_show": "",
-  "max_banner_key": "sDgK6y9L0HLtPZZNaaJ3cq09Y8ZtCPN8rxksaf4SXto="
+  "max_banner_key": "123"
 }
