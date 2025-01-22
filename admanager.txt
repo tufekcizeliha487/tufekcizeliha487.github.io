@@ -11,6 +11,6 @@
     "ad_native"      : "a5fe310add499b7c",
     "ad_splash"      : "cf3c4439b7cad1ea"
   },
-  "splash_inter_show": "",
+  "splash_inter_show": "admob",
   "max_banner_key": "ORZDmM/z9ArWQxfyz5N1rMVxCGRCm3e11LIK6pUV82E="
 }
